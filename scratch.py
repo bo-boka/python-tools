@@ -1,9 +1,8 @@
 def count_letters(s):
-    int_str = ""
-    while s > 0:
-        remain = s % 10
-        int_str += str(remain)
-        s - remain
-    return int_str
+    return s[::2]
 
-print count_letters(123)
+print count_letters("123456")
+
+# hitting shift twice to search everywhere
+# ctrl Q to see source code
+# ctrl B to jump to declaration

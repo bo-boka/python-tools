@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PycharmProjects/TestProj/.idea/TestProj.iml" filepath="$USER_HOME$/PycharmProjects/TestProj/.idea/TestProj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/python-algorithms.iml" filepath="$PROJECT_DIR$/.idea/python-algorithms.iml" />
+      <module fileurl="file://C:\Users\Sarah\Documents\_repos\python-tools\.idea\python-algorithms.iml" filepath="C:\Users\Sarah\Documents\_repos\python-tools\.idea\python-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-tools.iml" filepath="$PROJECT_DIR$/.idea/python-tools.iml" />
     </modules>
   </component>
 </project>

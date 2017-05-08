@@ -189,3 +189,5 @@ if __name__ == '__main__':
     import doctest
     doctest.testmod()
 print "pass"
+
+# list.count(s) will return the number of s occurances in the list

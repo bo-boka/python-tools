@@ -22,6 +22,8 @@ def reverse(s):
     for i in range(1, len(s) + 1):
         rev_str += s[-i]
     return rev_str
+# or simiply: s[::-1] to reverse
+# s[::2] gets every other letter
         
 def mirror(s):
     """
