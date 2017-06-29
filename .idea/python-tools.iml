@@ -5,6 +5,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="TestProj" />
+    <orderEntry type="module" module-name="cloudpanel" />
+    <orderEntry type="module" module-name="website" />
+    <orderEntry type="module" module-name="stalkstocks" />
+    <orderEntry type="module" module-name="techcollab" />
+    <orderEntry type="module" module-name="techcollab" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

@@ -1,3 +1,16 @@
+# getting diagonal
+row1 = [1, 2, 3]
+row2 = [4, 5, 6]
+row3 = [7, 8, 9]
+m = [row1, row2, row3]
+
+d = []
+i = 0
+for row in m:
+    d.append(i)
+    i += 1
+print 'Diagonal is {x}'.format(x=d)
+
 def add_row(matrix):
     """
       >>> m = [[0, 0], [0, 0]]

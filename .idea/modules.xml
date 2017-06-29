@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cloud-control-panel/.idea/cloudpanel.iml" filepath="$PROJECT_DIR$/../cloud-control-panel/.idea/cloudpanel.iml" />
       <module fileurl="file://C:\Users\Sarah\Documents\_repos\python-tools\.idea\python-algorithms.iml" filepath="C:\Users\Sarah\Documents\_repos\python-tools\.idea\python-algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-tools.iml" filepath="$PROJECT_DIR$/.idea/python-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stalkstocks/stalkstocks/.idea/stalkstocks.iml" filepath="$PROJECT_DIR$/../stalkstocks/stalkstocks/.idea/stalkstocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tech-collab/techcollab/.idea/techcollab.iml" filepath="$PROJECT_DIR$/../tech-collab/techcollab/.idea/techcollab.iml" />
+      <module fileurl="file://C:\Users\Sarah\Documents\_repos\tech-collab\tech-collab\techcollab\.idea\techcollab.iml" filepath="C:\Users\Sarah\Documents\_repos\tech-collab\tech-collab\techcollab\.idea\techcollab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../website/website/.idea/website.iml" filepath="$PROJECT_DIR$/../website/website/.idea/website.iml" />
     </modules>
   </component>
 </project>

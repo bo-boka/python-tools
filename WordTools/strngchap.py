@@ -24,6 +24,8 @@ def reverse(s):
     return rev_str
 # or simiply: s[::-1] to reverse
 # s[::2] gets every other letter
+
+# print function_name.__doc__ prints out anything within triple quotes
         
 def mirror(s):
     """
